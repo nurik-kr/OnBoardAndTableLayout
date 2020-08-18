@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBoardAndTableLayout</string>
+    <string name="next">Продолжить</string>
+    <string name="hom">Домой</string>
+    <string name="foto">Фото</string>
+    <string name="corzina">Корзина</string>
+    <string name="phone">Тел</string>
+</resources>
